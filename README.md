@@ -31,8 +31,8 @@ This project demonstrates **Parameter-Efficient Fine-Tuning (PEFT)** using **LoR
 
 ## ⚡ Installation
 ```bash
-git clone https://github.com/shruti-shreya01/finetuning-gemma.git
-cd finetuning-gemma
+git clone https://github.com/shruti-shreya01/LoRA-Enhanced-PEFT-Fine-Tuning-of-Gemma.git
+cd LoRA-Enhanced-PEFT-Fine-Tuning-of-Gemma
 pip install -r requirements.txt
 ```
 ## 🚀 How It Works
@@ -55,6 +55,7 @@ pip install -r requirements.txt
 ## 📊 Results
 - ✅ Achieved **efficient fine-tuning** with significantly reduced GPU memory usage.  
 - ✅ Demonstrated **strong performance** in domain-specific text generation tasks.  
+
 
 
 
